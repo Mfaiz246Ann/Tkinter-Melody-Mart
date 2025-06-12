@@ -98,11 +98,11 @@ class MusicStoreApp(tk.Tk):
         desc2.pack()
         desc3 = tk.Label(desc_frame, text="Oleh Kelompok 5", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
         desc3.pack()
-        desc4 = tk.Label(desc_frame, text="Dwei Puspitasari", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
+        desc4 = tk.Label(desc_frame, text="Dewi Puspitasari", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
         desc4.pack()
         desc5 = tk.Label(desc_frame, text="Muhammad Faiz Pohan", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
         desc5.pack()
-        desc6 = tk.Label(desc_frame, text="Viana Raru Akmalia", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
+        desc6 = tk.Label(desc_frame, text="Viana Ratu Akmalia", font=("Segoe UI", 12), bg="#181f2a", fg="#fff")
         desc6.pack()
 
     def show_produk(self):
